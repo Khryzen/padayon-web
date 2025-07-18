@@ -20,7 +20,7 @@ This repo hosts the **marketing website** for Padayon, including product info, b
 - **Offline-First**: PWA-ready with mesh Wi-Fi option for low-connectivity schools  
 - **Parent & Teacher Apps**: With localized content and grade monitoring  
 
-Learn more: 👉 [https://padayon.ph](https://padayon.ph) (placeholder)
+Learn more: 👉 [Padayon-Web](https://khryzen.github.io/padayon-web/)
 
 ---
 
